@@ -1,4 +1,4 @@
-# HR Analytics – End-to-End Data Analytics Project
+# HR Analytics Dashboard - Employee Attrition Project
 
 ## Project Overview
 
